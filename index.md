@@ -2,7 +2,7 @@
 layout: home
 title: Home
 tag: Featured
-landing-title: NFL Title Here
+landing-title: NFL and NCAAFB Analysis
 description: Moneylines, spreads, and more. 
 url: /nfl/
 image: 
