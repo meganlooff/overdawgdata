@@ -4,7 +4,7 @@ title: Home
 tag: Featured
 landing-title: NFL and NCAAFB Analysis
 description: Moneylines, spreads, and more. 
-url: /nfl/
+url: 
 image: 
 nav-menu: true
 author: null

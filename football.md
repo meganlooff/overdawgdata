@@ -1,7 +1,20 @@
 ---
-layout: post
-title: NFL and NCAAFB
-show_tile: false
+layout: landing
+title: NFL & NCAAFB
+description: Moneylines and spreads across sports
+image: assets/images/betting.jpeg
+nav-menu: false
+permalink: /football/
 ---
+<!-- Main -->
+<div id="main">
 
-Data visulizations coming soon! 
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Data visualizations coming soon! </h2>
+		</header>
+    </div>
+</section>
+
