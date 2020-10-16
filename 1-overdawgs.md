@@ -13,7 +13,7 @@ permalink: /overdawg/
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>xxxxx </h2>
+			<h2>Data visualizations coming soon! </h2>
 		</header>
     </div>
 </section>

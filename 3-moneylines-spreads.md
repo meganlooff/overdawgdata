@@ -13,7 +13,7 @@ permalink: /moneylines-spreads/
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>XXXX! </h2>
+			<h2>Data visualizations coming soon! </h2>
 		</header>
     </div>
 </section>

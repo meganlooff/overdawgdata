@@ -4,7 +4,7 @@ title: Betting Basics
 description: New to betting? We have you covered. 
 image: assets/images/Derby.png
 nav-menu: false
-permalink: /trends-by-sports/
+permalink: /betting-basics/
 ---
 <!-- Main -->
 <div id="main" class="alt">
