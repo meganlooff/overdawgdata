@@ -5,6 +5,7 @@ description: Moneylines and spreads across sports
 image: assets/images/NFL.jpeg
 nav-menu: false
 permalink: /football/
+show_tile: false
 ---
 <!-- Main -->
 <div id="main">
