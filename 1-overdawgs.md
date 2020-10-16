@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: post
 title: Overdawgs
 description: Weekly, dominant picks with a high probability of winning
 image: assets/images/MLB.jpeg
