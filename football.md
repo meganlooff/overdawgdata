@@ -2,7 +2,7 @@
 layout: landing
 title: NFL & NCAAFB
 description: Moneylines and spreads across sports
-image: assets/images/betting.jpeg
+image: assets/images/NFL.jpeg
 nav-menu: false
 permalink: /football/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: post
 title: Trends by Sport
 description: View moneylines and spreads by sport
 image: assets/images/NBA-2.jpeg

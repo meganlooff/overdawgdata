@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Betting Basics
 description: New to betting? We have you covered. 
 image: assets/images/Derby.png

@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: post
 title: Moneylines & Spreads
 description: Moneylines and spreads across sports
 image: assets/images/betting.jpeg
