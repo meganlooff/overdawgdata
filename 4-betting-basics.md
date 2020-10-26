@@ -21,11 +21,12 @@ permalink: /betting-basics/
 
 <hr>
 
-<h3>Overdawgs vs Underdogs</h3>
-<p>Text here. </p>
+<h3>Overdawg</h3>
+<p>someone who is dominant or has a significant advantage in their field</p>
+
 <hr>
 
-<h3>Spreads</h3>
+<h3>More betting basics coming soon! </h3>
 
 
 
