@@ -17,7 +17,7 @@ permalink: /betting-basics/
 		</header>
 
 <!-- Content -->
-<p>At OverDawg, we think your bets are only as good as our data. But your data won't mean much if you don't know the basics!</p>
+<p>New to betting? Learn some betting basics to help you place your smartest bet yet! </p>
 
 <hr>
 
