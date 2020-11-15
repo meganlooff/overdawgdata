@@ -15,8 +15,7 @@ show_tile: false
 	<div class="inner">
 		<header class="major">
 			<h2>Data visualizations coming soon! </h2>
-			
+			<p> make this a t est test test test</p>
 		</header>
     </div>
 </section>
-
